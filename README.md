@@ -1,4 +1,4 @@
-Hi, I'm Khai 👋 - a software developer who is interested in developing games and full-stack web/mobile apps.
+**Hi, I'm Khai 👋 - a software developer who is interested in developing games and full-stack web/mobile apps.**
 
 **Web & Mobile Projects**
 
