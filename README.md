@@ -13,7 +13,7 @@
 
 ![khaitruong922's github stats](https://github-readme-stats.vercel.app/api?username=khaitruong922&count_private=true&show_icons=true&theme=radical)
 
-**Connected with me**
+**Connect with me**
 
 [![khaitruong922](https://user-images.githubusercontent.com/56820749/137717041-fd450e05-c104-42ec-b589-e0d37452c1fe.png)](https://www.facebook.com/khaitruong922/)
 [![5khaitruong922](https://user-images.githubusercontent.com/56820749/137717727-79882d53-e076-453a-8b27-8a749702e4e9.png)](https://www.linkedin.com/in/khaitruong922/)
