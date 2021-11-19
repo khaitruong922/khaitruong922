@@ -19,6 +19,13 @@
     </a>
 </div>
 
+**Tech stack**
+
+- **Web**: React, Next.js
+- **Mobile**: React Native, Flutter
+- **Back-end**: NodeJS (Express, NestJS), Spring Boot, Firebase
+- **Game development**: Unity
+
 **Connect with me**
 
 [![khaitruong922](https://user-images.githubusercontent.com/56820749/137717041-fd450e05-c104-42ec-b589-e0d37452c1fe.png)](https://www.facebook.com/khaitruong922/)
