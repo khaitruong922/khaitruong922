@@ -11,15 +11,6 @@
 - 💣 [Boom Master](https://khaitruong922.itch.io/boom-master) - A 2D top-down action game inspired by Bomberman
 - ⭕ [Gomoku Online](https://gomokuonline.netlify.app/) - Online multiplayer Gomoku (Five in a Row) - a strategy board game.
 
-
-**Tech stack**
-
-- **Web**: React, Next.js
-- **Mobile**: React Native, Flutter
-- **Back-end**: NodeJS (Express, NestJS), Spring Boot, Firebase
-- **Game development**: Unity
-
-
 ![khaitruong922's github stats](https://github-readme-stats.vercel.app/api?username=khaitruong922&count_private=true&show_icons=true&theme=radical)
 
 <div align="center" style="margin-bottom: 50px">
