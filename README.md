@@ -2,7 +2,7 @@
 
 **Web & Mobile Projects**
 
-- 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform where you can listen to music with other people in real time
+- 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform
 - 🍖 [DeliV](https://deli-v.netlify.app/) - A multi-vendor food ordering website
 - 🍜 [Ramen](https://github.com/RamenTeam/ramen) - A fast-paced social networking app (mobile)
 
