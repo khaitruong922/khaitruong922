@@ -2,7 +2,7 @@
 
 **Web & Mobile Projects**
 
-- 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform
+- 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform where you can listen to music with other people in real time
 - 🍖 [DeliV](https://deli-v.netlify.app/) - A multi-vendor food ordering website
 - 🍜 [Ramen](https://github.com/RamenTeam/ramen) - A fast-paced social networking app (mobile)
 
@@ -10,7 +10,7 @@
 
 - ⚔️ [Weapon Masters](https://khaitruong922.itch.io/weapon-masters) - A 2D top-down shooter game with multiple characters
 - 💣 [Boom Master](https://khaitruong922.itch.io/boom-master) - A 2D top-down action game inspired by Bomberman
-- ⭕ [Gomoku Online](https://gomokuonline.netlify.app/) - Online multiplayer Gomoku (Five in a Row) - a strategy board game.
+- ⭕ [Gomoku Online](https://gomokuonline.netlify.app/) - An online multiplayer Gomoku chess (Five in a Row) with lobby and ELO system.
 
 ![khaitruong922's github stats](https://github-readme-stats.vercel.app/api?username=khaitruong922&count_private=true&show_icons=true&theme=radical)
 
