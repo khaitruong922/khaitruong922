@@ -3,6 +3,7 @@
 **Web & Mobile Projects**
 
 - 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform.
+- 🌙 [Nhật ký của Tsu](https://nhatkycuatsu.vercel.app/) - My personal blog (not written anything yet 🙂)
 - 🍖 [DeliV](https://deli-v.netlify.app/) - A multi-vendor food ordering website
 - 🍜 [Ramen](https://github.com/RamenTeam/ramen) - A fast-paced social networking app (mobile)
 
