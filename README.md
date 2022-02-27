@@ -14,8 +14,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaitruong922&theme=radical)](https://git.io/streak-stats)
 
-![khaitruong922's github stats](https://github-readme-stats.vercel.app/api?username=khaitruong922&count_private=true&show_icons=true&theme=radical)
-
 **Connect with me**
 
 [![5khaitruong922](https://user-images.githubusercontent.com/56820749/137717727-79882d53-e076-453a-8b27-8a749702e4e9.png)](https://www.linkedin.com/in/khaitruong922/)
