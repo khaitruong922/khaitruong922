@@ -16,5 +16,5 @@
 
 **Connect with me**
 
-[![5khaitruong922](https://user-images.githubusercontent.com/56820749/137717727-79882d53-e076-453a-8b27-8a749702e4e9.png)](https://www.linkedin.com/in/khaitruong922/)
+[![khaitruong922](https://user-images.githubusercontent.com/56820749/137717727-79882d53-e076-453a-8b27-8a749702e4e9.png)](https://www.linkedin.com/in/khaitruong922/)
 [![Tsuu2092](https://user-images.githubusercontent.com/56820749/137717539-2ca5a40c-09c6-4f15-9cda-444c755a82b1.png)](https://www.youtube.com/c/Tsuu2092)
