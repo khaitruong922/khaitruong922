@@ -3,23 +3,18 @@
 **Web & Mobile Projects**
 
 - 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform.
-- 🌙 [Nhật ký của Tsu](https://nhatkycuatsu.vercel.app/) - My personal blog (not written anything yet 🙂)
 - 🍖 [DeliV](https://deli-v.netlify.app/) - A multi-vendor food ordering website
 - 🍜 [Ramen](https://github.com/RamenTeam/ramen) - A fast-paced social networking app (mobile)
 
 **Game Projects**
 
-- ⚔️ [Weapon Masters](https://khaitruong922.itch.io/weapon-masters) - A 2D top-down shooter game with multiple characters
-- 💣 [Boom Master](https://khaitruong922.itch.io/boom-master) - A 2D top-down action game inspired by Bomberman
 - ⭕ [Gomoku Online](https://gomokuonline.netlify.app/) - An online multiplayer Gomoku chess (Five in a Row) with lobby and ELO system.
+- 💣 [Boom Master](https://khaitruong922.itch.io/boom-master) - A 2D top-down action game inspired by Bomberman
+- ⚔️ [Weapon Masters](https://khaitruong922.itch.io/weapon-masters) - A 2D top-down shooter game with multiple characters
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaitruong922&theme=radical)](https://git.io/streak-stats)
 
 ![khaitruong922's github stats](https://github-readme-stats.vercel.app/api?username=khaitruong922&count_private=true&show_icons=true&theme=radical)
-
-<div align="center" style="margin-bottom: 50px">
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img width="175px" src="https://komarev.com/ghpvc/?username=khaitruong922&color=ff66cc">
-    </a>
-</div>
 
 **Connect with me**
 
