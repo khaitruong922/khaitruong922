@@ -1,16 +1,13 @@
 **Hi, I'm Khai 👋 - a software developer who is interested in developing games and full-stack apps.**
 
-**Web & Mobile Projects**
+**Projects**
 
 - 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform.
-- 🍖 [DeliV](https://deli-v.netlify.app/) - A multi-vendor food ordering website
-- 🍜 [Ramen](https://github.com/RamenTeam/ramen) - A fast-paced social networking app (mobile)
-
-**Game Projects**
-
 - ⭕ [Gomoku Online](https://gomokuonline.netlify.app/) - An online multiplayer Gomoku chess (Five in a Row) with lobby and ELO system.
 - 💣 [Boom Master](https://khaitruong922.itch.io/boom-master) - A 2D top-down action game inspired by Bomberman
 - ⚔️ [Weapon Masters](https://khaitruong922.itch.io/weapon-masters) - A 2D top-down shooter game with multiple characters
+- 🍖 [DeliV](https://deli-v.netlify.app/) - A multi-vendor food ordering website
+- 🍜 [Ramen](https://github.com/RamenTeam/ramen) - A fast-paced social networking app (mobile)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaitruong922&theme=radical)](https://git.io/streak-stats)
 
