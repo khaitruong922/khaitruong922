@@ -1,6 +1,6 @@
-### Hi, it's me 😶
+### Hi, it's me again 😶
 
-#### Projects
+#### My projects
 
 - 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform with extraordinary features.
 - ⭕ [Gomoku Online](https://gomokuonline.netlify.app/) - An online multiplayer Gomoku chess.
