@@ -11,13 +11,13 @@
 
 <div align="center">
     <h4><b>Connect with me</b></h4>
-    <a href="https://www.linkedin.com/in/khaitruong922" target="blank" style="text-decoration: none">
+    <a href="https://www.linkedin.com/in/khaitruong922" style="text-decoration: none">
          <img width="50px" src="https://user-images.githubusercontent.com/56820749/137717727-79882d53-e076-453a-8b27-8a749702e4e9.png" alt="Linkedin"/>
     </a> 
-    <a href="https://www.youtube.com/c/Tsuu2092" target="blank" style="text-decoration: none">
+    <a href="https://www.youtube.com/c/Tsuu2092" style="text-decoration: none">
        <img width="50px" src="https://user-images.githubusercontent.com/56820749/137717539-2ca5a40c-09c6-4f15-9cda-444c755a82b1.png" />
     </a>
-    <a href="https://codeforces.com/profile/tsuu2092" target="blank" style="text-decoration: none">
+    <a href="https://codeforces.com/profile/tsuu2092" style="text-decoration: none">
        <img width="50px" src="https://user-images.githubusercontent.com/56820749/198992039-b7ece347-469e-432c-a601-c8413505a4ed.png" />
     </a>
 </div>
