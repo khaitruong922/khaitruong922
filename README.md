@@ -2,11 +2,11 @@
 
 #### My projects
 
-- 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform with extraordinary features.
-- ⭕ [Gomoku Online](https://gomokuonline.netlify.app/) - An online multiplayer Gomoku chess.
+- 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform with extraordinary features
+- ⭕ [Gomoku Online](https://gomokuonline.netlify.app/) - An online multiplayer Gomoku chess
 - 💣 [Boom Master](https://khaitruong922.itch.io/boom-master) - A 2D top-down action game inspired by Bomberman
-- ⚔️ [Weapon Masters](https://khaitruong922.itch.io/weapon-masters) - A 2D top-down shooter RPG.
-- 🍜 [Ramen](https://github.com/RamenTeam/ramen) - A fast-paced social networking mobile app.
+- ⚔️ [Weapon Masters](https://khaitruong922.itch.io/weapon-masters) - A 2D top-down shooter RPG
+- 🍜 [Ramen](https://github.com/RamenTeam/ramen) - A fast-paced social networking mobile app
 
 
 <div align="center">
