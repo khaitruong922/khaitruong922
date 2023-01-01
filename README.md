@@ -17,7 +17,4 @@
     <a href="https://www.youtube.com/c/Tsuu2092" style="text-decoration: none">
        <img width="50px" src="https://user-images.githubusercontent.com/56820749/137717539-2ca5a40c-09c6-4f15-9cda-444c755a82b1.png" />
     </a>
-    <a href="https://codeforces.com/profile/tsuu2092" style="text-decoration: none">
-       <img width="50px" src="https://user-images.githubusercontent.com/56820749/198992039-b7ece347-469e-432c-a601-c8413505a4ed.png" />
-    </a>
 </div>
