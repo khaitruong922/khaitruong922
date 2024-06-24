@@ -1,5 +1,3 @@
-おっはぁぁ～
-
 ## My projects
 
 - 🎵 [Music Capsule](https://musiccapsule.netlify.app/) - An online music streaming platform with extraordinary features
